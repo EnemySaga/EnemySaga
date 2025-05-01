@@ -39,7 +39,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EnemySaga&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EnemySaga&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EnemySaga&theme=radical" alt="GitHub Streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnemySaga&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🎯 Fun Facts
