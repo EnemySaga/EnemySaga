@@ -38,14 +38,21 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnemySaga&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnemySaga&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats">
   <img src="https://streak-stats.demolab.com?user=EnemySaga&theme=radical" alt="GitHub Streak">
 </p>
+
+---
+
+## 📫 Connect With Me
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnemySaga&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://www.tiktok.com/@fahmii13_0" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&lines=My+Discord:+enemysaga!" alt="Typing SVG">
+</p>
+---
 
 ## 🎯 Fun Facts
 - I use **Termux** for on-the-go scripting.
